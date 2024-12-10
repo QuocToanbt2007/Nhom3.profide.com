@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>	QUỐC TOẢN </title>
+    <title>GIA BẢO </title>
     <style>
 		h1{
 			display: none;
@@ -11,12 +11,12 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background: linear-gradient(to bottom, #add8e6, #ffffff); /* Xanh dương nhạt sang trắng */
+            background: linear-gradient(to bottom, #90EE90, #ffffff); /* Xanh lá nhạt sang trắng */
         }
         .header {
             padding: 20px;
             text-align: center;
-            background-color: #add8e6; /* Xanh dương nhạt */
+            background-color: #90EE90; /* Xanh lá  nhạt */
             font-size: 2em;
             font-weight: bold;
             color: #333;
@@ -44,7 +44,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
         .footer {
-            background-color: #add8e6; /* Xanh dương nhạt */
+            background-color:  #90EE90; /* Xanh lá  nhạt */
             padding: 20px;
             text-align: center;
         }
@@ -61,29 +61,29 @@
             text-align: center;
         }
         th {
-            background-color: #add8e6; /* Màu xanh dương nhạt */
+            background-color:  #90EE90; /* Màu xanh lá nhạt */
         }
 		p {text-indent: 30px; /* Lùi đầu dòng 30px */
             font-family: 'Patrick Hand', sans-serif; /* Sử dụng phông Patrick Hand */
             font-size: 20px;               /* Kích thước chữ */
-            color: #00008B;               /* Màu chữ hồng dễ thương */}
+            color: #006400;               /* Màu chữ xanh lá dễ thương */}
     </style>
 </head>
 <body>
 
     <!-- Tiêu đề trang -->
-    <div class="header"> NGUYỄN KHÁNH QUỐC TOẢN</div>
+    <div class="header"> NGUYỄN TRẦN GIA BẢO </div>
 
     <!-- Hình bên trái cùng hàng với văn bản -->
     <div class="content-container">
         <div class="image-section">
-            <img src="https://s.net.vn/mXj7" alt="Hình ảnh bên trái">
+            <img src="https://short.com.vn/VPwa" alt="Hình ảnh bên trái">
         </div>
         <div class="text-section">
             <h2>Giới thiệu bản thân </h2>
             <p>
-                Xin chào các bạn, mình là Quốc Toản. Hiện tại mình học lớp 12 chuyên lý tại trường THPT Chuyên Bến Tre, mình cũng không biết vì sao hồi lớp 9 mình thích môn lý. Có thể vì sự tò mò của mình và sự thú vị từ các hiện tượng vật lý. Qua 2 năm học, mình cũng cảm thấy để chinh phục vật lý không chỉ mỗi sở thích mà còn là năng khiếu. Tuy không còn mặn mà với lý nữa nhưng mình cũng rất cố gắng để hoàn thành việc học chuyên lý trên lớp. Mình hy vọng trong tương lai mình sẽ được làm việc trong môi trường nghệ thuật và sáng tạo. Vì đó là lợi thế cho người thuộc cung sư tử và số chủ đạo 7 như mình. Họ thích sáng tạo, nghệ thuật và trải nghiệm.
-			</p>
+			Tôi thích màu Vàng💛-XanhLá💚. Thích đi ra ngoài những cũng thích ở nhà. Thích xem phim,🎬 nghe nhạc🎧, hát🎤🎶, sáng tác,  Thích ăn 🍰, trái cây(nho🍇, cam🍊, dâu🍓) Không thích món dầu mở. Hay ăn vặt và uống trà sữa🧋. Thể loại phim yêu thích: kinh dị🧟‍♀️, tâm linh, gia đình🏠, cung đấu👸🏻. Loài vật ghét nhất là ONG🐝. Ước mơ trở thành giáo viên dạy khoa học tự nhiên. Hay tự ti, lo âu và buồn về một số câu chuyện. Rất giỏi bắt chuyện và làm quen nhiều bạn mới. Với tính cách hài hước, dễ thương, hoà đồng, cởi mở. Là cháu của một gia đình có nguồn gốc phong tục xưa(Nho giáo).
+            </p>
    
         </div>
     </div>
@@ -106,14 +106,14 @@
             <tbody>
                 <!-- 2 hàng -->
                 <tr>
-					<td>17/08/2007 </td>
-                    <td>1,79m </td>
+					<td>01/01/2007 </td>
+                    <td>1,65 m  </td>
                     <td>66 kg</td>
-                    <td>0912487242</td>
-                    <td>quoctoanbt2007@gmail.com</td>
-                    <td>Sư Tử</td>
-                    <td>Phúc Luân</td>
-                    <td><a href="https://s.net.vn/kOrN">Phúc Luân</a></td>
+                    <td>0342278512</td>
+                    <td>gabtran3112@gmail.com</td>
+                    <td>Ma Kết</td>
+                    <td>Xì Trây </td>
+                    <td><a href="https://www.facebook.com/profile.php?id=61551857554514&locale=vi_VN">Nguyễn Trần Gia Bảo</a></td>
                 </tr>
             </tbody>
         </table>
